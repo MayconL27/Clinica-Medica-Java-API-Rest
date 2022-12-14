@@ -1,13 +1,13 @@
-package med.voli.api;
+package com.api.Clinica;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ApiApplication {
+public class ClinicaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ApiApplication.class, args);
+		SpringApplication.run(ClinicaApplication.class, args);
 	}
 
 }

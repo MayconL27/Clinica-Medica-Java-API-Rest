@@ -1,10 +1,10 @@
-package med.voli.api;
+package com.api.Clinica;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApiApplicationTests {
+class ClinicaApplicationTests {
 
 	@Test
 	void contextLoads() {
